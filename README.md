@@ -1,4 +1,4 @@
-# Audio Noise Cancellation Using Spectrographic Analysis
+# Noise Cancellation Using Spectrographic Analysis
 
 ## Description
 Developed a comprehensive audio signal processing pipeline in Python that captures, analyzes, filters, and enhances recorded audio using real-time techniques.
